@@ -7,8 +7,8 @@ Clé Privée : Utilisez la clé privée de votre compte pour signer les transact
 
 Remplir le .env: 
 
->PRIVATEKEY=0xd292fc320144aef5e067c6c2edff18384c6c4d1d7b7b74d091218160b24e250b
->WALLET_ADDRESS=0x4bc1cAEDBf984D34404C4D0BF2178DAB1a9Bf026
+>PRIVATEKEY=
+>WALLET_ADDRESS=
 >SEPOLIA_RPC_URL=https://rpc2.sepolia.org/
 
 sh
